@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source projects, and continuously learning new technologies and frameworks. Hence why I am also interested in learning more and more. Here’s a bit more about me and what you can find on my profile:
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwukong-sun&psig=AOvVaw3SFGzN-Y1Tz3fd7thfqoUr&ust=1726057639270000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDjodSvuIgDFQAAAAAdAAAAABAJ
+![Uploading image.png…]()
 
 ## 🚀 About Me
 
