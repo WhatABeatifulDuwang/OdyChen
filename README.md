@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source projects, and continuously learning new technologies and frameworks. Hence why I am also interested in learning more and more. Here’s a bit more about me and what you can find on my profile:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://giphy.com/gifs/xi-you-ji-sun-wu-kong-mei-hou-wang-xT1R9J0jWAeYupcfm0">
-  <source media="(prefers-color-scheme: light)" srcset="https://giphy.com/gifs/xi-you-ji-sun-wu-kong-mei-hou-wang-xT1R9J0jWAeYupcfm0">
-</picture>
-
 ## 🚀 About Me
 
 - 🎓 I have a background in Software Development.
