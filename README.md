@@ -26,12 +26,12 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 Here are some of my notable projects:
 
-- [**WIP**](https://github.com/WhatABeatifulDuwang/Snake):
-- [**WIP**](https://github.com/WhatABeatifulDuwang/MegaMarket):
-- [**WIP**](https://github.com/WhatABeatifulDuwang/Chirpify):
-- [**WIP**](https://github.com/GewoonJaap/Microsoft-Jumbo):
-- [**WIP**](https://github.com/Vincent2162102/Sagrada):
-- [**WIP**](https://github.com/Blastcharge/Fatum):
+- [**Snake**](https://github.com/WhatABeatifulDuwang/Snake):
+- [**MegaMarket**](https://github.com/WhatABeatifulDuwang/MegaMarket):
+- [**Chirpify**](https://github.com/WhatABeatifulDuwang/Chirpify):
+- [**Bumbo**](https://github.com/GewoonJaap/Microsoft-Jumbo):
+- [**Sagrada**](https://github.com/Vincent2162102/Sagrada):
+- [**Fatum**](https://github.com/Blastcharge/Fatum):
 
 ## 📫 Let's Connect
 
